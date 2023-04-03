@@ -97,7 +97,3 @@
   </body>
 </body>
 </html>
-
-<?php
-
-	?>
